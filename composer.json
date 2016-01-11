@@ -1,0 +1,26 @@
+{
+    "name": "AbbasAdv/belajar",
+    "description": "Belajar PHP dari dasar disertai dengan bootstrap dan jQuery",
+    "keywords": [
+        "bootstrap",
+        "belajar",
+        "php"
+    ],
+    "homepage": "https://github.com/AbbasAdv/belajar",
+    "type": "basic",
+    "license": "MIT",
+    "support": {
+        "issues": "https://github.com/AbbasAdv/belajar/issues",
+        "source": "https://github.com/AbbasAdv/belajar"
+    },
+    "authors": [
+        {
+            "name": "Abbas",
+            "homepage": "http://sintret.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "minimum-stability": "dev"
+}
