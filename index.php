@@ -1,3 +1,6 @@
+<?php 
+// ini buat autoload semua di folder vendor
+require 'vendor/autoload.php';?>
 <?php include 'header.php';?>
 
 <?php 
