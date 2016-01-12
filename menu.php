@@ -20,7 +20,7 @@
                     <ul class="dropdown-menu">
                         <li><a href="index.php?r=jquery">jQuery</a></li>
                         <li><a href="index.php?r=ajax">Ajax</a></li>
-                        <li><a href="#">Belajar 3</a></li>
+                        <li><a href="index.php?r=composer">Composer</a></li>
                         <li><a href="#">Belajar 4</a></li>
                         <li><a href="#">Belajar 5</a></li>
                         <li><a href="#">About</a></li>
